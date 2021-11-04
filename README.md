@@ -12,7 +12,7 @@ Import -> Existing Maven Projects <br/>
 Run as -> Java application <br/>
 
 ## Setting
-Setting -> [] <br/>
+Setting application.properties
 spring.datasource.url=[jdbc:mysql://localhost:3306/springboot_template] <br/>
 spring.datasource.username=[root] <br/>
 spring.datasource.password=[123] <br/>
