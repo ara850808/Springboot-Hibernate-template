@@ -2,6 +2,8 @@
 ### Feature
 - JPA
 - CRUD
+- H2
+- MySQL
 
 ## Init
 Import -> Existing Maven Projects <br/>
